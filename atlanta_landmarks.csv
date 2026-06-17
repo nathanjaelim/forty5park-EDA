@@ -1,0 +1,5 @@
+key,name,type,latitude,longitude,source
+buckhead,Buckhead,neighborhood,33.83942,-84.37992,https://en.wikipedia.org/wiki/Buckhead
+midtown,Midtown Atlanta,neighborhood,33.7868014,-84.3795169,https://en.wikipedia.org/wiki/Midtown_Atlanta
+downtown,Downtown Atlanta,cbd,33.75500,-84.39000,https://en.wikipedia.org/wiki/Downtown_Atlanta
+atl_airport,Hartsfield-Jackson Atlanta International Airport,airport,33.6407,-84.4277,https://en.wikipedia.org/wiki/Hartsfield-Jackson_Atlanta_International_Airport
